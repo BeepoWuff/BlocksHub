@@ -6,6 +6,6 @@ website: https://github.com/SBPrime/BlocksHub/
 description: Logger & Block access API.
 authors: [SBPrime]
 depend: []
-softdepend: []
+softdepend: [Factions, GriefPrevention, WorldGuard, CoreProtect, LogBlock]
 commands:
 permissions:
